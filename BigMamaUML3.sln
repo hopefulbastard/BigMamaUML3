@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigMamaUML3", "BigMamaUML3\BigMamaUML3.csproj", "{4DDE1CB7-AC1C-43DB-B15C-6E69640F26AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigMamaUML3Test", "BigMammaUML3Test\BigMamaUML3Test.csproj", "{9D9B00B3-230B-4718-86FB-DFDCE84C4C65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DDE1CB7-AC1C-43DB-B15C-6E69640F26AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDE1CB7-AC1C-43DB-B15C-6E69640F26AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDE1CB7-AC1C-43DB-B15C-6E69640F26AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDE1CB7-AC1C-43DB-B15C-6E69640F26AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9B00B3-230B-4718-86FB-DFDCE84C4C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9B00B3-230B-4718-86FB-DFDCE84C4C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9B00B3-230B-4718-86FB-DFDCE84C4C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9B00B3-230B-4718-86FB-DFDCE84C4C65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D5BDA9F-B14D-49EA-93F4-7D1BF42AC7B9}
+	EndGlobalSection
+EndGlobal
